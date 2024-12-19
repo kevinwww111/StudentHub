@@ -1,0 +1,6 @@
+info: Dec-12-2024 14:46:41: 	listening on *:27017
+error: Dec-12-2024 14:47:11: 	error: cannt connet to mongoDB MongooseServerSelectionError: Invalid message size: 1347703880, max allowed: 67108864
+info: Dec-12-2024 14:47:11: 	suscess: connet to mongoDB @mongodb://kai:4542@127.0.0.1:27017/test
+info: Dec-12-2024 14:48:43: 	listening on *:27017
+error: Dec-12-2024 14:49:13: 	error: cannt connet to mongoDB MongooseServerSelectionError: Invalid message size: 1347703880, max allowed: 67108864
+info: Dec-12-2024 14:49:13: 	suscess: connet to mongoDB @mongodb://kai:4542@127.0.0.1:27017/test

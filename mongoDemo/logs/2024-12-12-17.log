@@ -1,0 +1,3 @@
+info: Dec-12-2024 17:14:16: 	listening on *:3000
+error: Dec-12-2024 17:14:16: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Dec-12-2024 17:14:16: 	suscess: connet to mongoDB @mongodb://kai:4542@127.0.0.1:27017/test
